@@ -8,5 +8,5 @@ De main loop methode is er zo op voorzien dat vanaf de PI opstart deze volledig 
 
 Als er op de knop geduwd wordt, gaat de schakeling in 'remote mode' zodat deze vanop afstand bestuurd kan worden. Deze kent verschillende standen: De motor van de waterloop van de plantage aan en uit zetten, de water loop aanzetten maar ook de planten voeden.
 
-![img](/images/TotaalSchakeling.jpg)
+![img](/images/TotaalSchakeling.JPG)
 > foto schakeling
